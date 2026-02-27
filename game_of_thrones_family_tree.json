@@ -1,0 +1,489 @@
+{
+  "Brandon the Builder": {
+    "parents": [],
+    "children": [
+      "Edwyle Stark"
+    ],
+    "meta": {}
+  },
+  "Edwyle Stark": {
+    "parents": [
+      "Brandon the Builder"
+    ],
+    "children": [
+      "Rickard Stark"
+    ],
+    "meta": {}
+  },
+  "Rickard Stark": {
+    "parents": [
+      "Edwyle Stark"
+    ],
+    "children": [
+      "Brandon Stark",
+      "Benjen Stark",
+      "Eddard Stark",
+      "Lyanna Stark"
+    ],
+    "meta": {}
+  },
+  "Lyarra Stark": {
+    "parents": [],
+    "children": [
+      "Brandon Stark",
+      "Benjen Stark",
+      "Eddard Stark",
+      "Lyanna Stark"
+    ],
+    "meta": {}
+  },
+  "Brandon Stark": {
+    "parents": [
+      "Rickard Stark",
+      "Lyarra Stark"
+    ],
+    "children": [],
+    "meta": {}
+  },
+  "Eddard Stark": {
+    "parents": [
+      "Rickard Stark",
+      "Lyarra Stark"
+    ],
+    "children": [
+      "Arya Stark",
+      "Rickon Stark",
+      "Robb Stark",
+      "Sansa Stark",
+      "Bran Stark"
+    ],
+    "meta": {}
+  },
+  "Lyanna Stark": {
+    "parents": [
+      "Rickard Stark",
+      "Lyarra Stark"
+    ],
+    "children": [
+      "Jon Snow"
+    ],
+    "meta": {}
+  },
+  "Benjen Stark": {
+    "parents": [
+      "Rickard Stark",
+      "Lyarra Stark"
+    ],
+    "children": [],
+    "meta": {}
+  },
+  "Catelyn Tully": {
+    "parents": [
+      "Hoster Tully",
+      "Minisa Whent"
+    ],
+    "children": [
+      "Arya Stark",
+      "Rickon Stark",
+      "Robb Stark",
+      "Sansa Stark",
+      "Bran Stark"
+    ],
+    "meta": {}
+  },
+  "Robb Stark": {
+    "parents": [
+      "Eddard Stark",
+      "Catelyn Tully"
+    ],
+    "children": [],
+    "meta": {}
+  },
+  "Sansa Stark": {
+    "parents": [
+      "Eddard Stark",
+      "Catelyn Tully"
+    ],
+    "children": [],
+    "meta": {}
+  },
+  "Arya Stark": {
+    "parents": [
+      "Eddard Stark",
+      "Catelyn Tully"
+    ],
+    "children": [],
+    "meta": {}
+  },
+  "Bran Stark": {
+    "parents": [
+      "Eddard Stark",
+      "Catelyn Tully"
+    ],
+    "children": [],
+    "meta": {}
+  },
+  "Rickon Stark": {
+    "parents": [
+      "Eddard Stark",
+      "Catelyn Tully"
+    ],
+    "children": [],
+    "meta": {}
+  },
+  "Jon Snow": {
+    "parents": [
+      "Rhaegar Targaryen",
+      "Lyanna Stark"
+    ],
+    "children": [],
+    "meta": {}
+  },
+  "Rhaegar Targaryen": {
+    "parents": [
+      "Aerys II Targaryen",
+      "Rhaella Targaryen"
+    ],
+    "children": [
+      "Aegon (young) Targaryen",
+      "Rhaenys Targaryen",
+      "Jon Snow"
+    ],
+    "meta": {}
+  },
+  "Aegon I Targaryen": {
+    "parents": [],
+    "children": [
+      "Jaehaerys I Targaryen"
+    ],
+    "meta": {}
+  },
+  "Jaehaerys I Targaryen": {
+    "parents": [
+      "Aegon I Targaryen"
+    ],
+    "children": [
+      "Aegon V Targaryen"
+    ],
+    "meta": {}
+  },
+  "Aegon V Targaryen": {
+    "parents": [
+      "Jaehaerys I Targaryen"
+    ],
+    "children": [
+      "Jaehaerys II Targaryen"
+    ],
+    "meta": {}
+  },
+  "Jaehaerys II Targaryen": {
+    "parents": [
+      "Aegon V Targaryen"
+    ],
+    "children": [
+      "Aerys II Targaryen",
+      "Rhaella Targaryen"
+    ],
+    "meta": {}
+  },
+  "Aerys II Targaryen": {
+    "parents": [
+      "Jaehaerys II Targaryen"
+    ],
+    "children": [
+      "Viserys Targaryen",
+      "Rhaegar Targaryen",
+      "Daenerys Targaryen"
+    ],
+    "meta": {}
+  },
+  "Rhaella Targaryen": {
+    "parents": [
+      "Jaehaerys II Targaryen"
+    ],
+    "children": [
+      "Viserys Targaryen",
+      "Rhaegar Targaryen",
+      "Daenerys Targaryen"
+    ],
+    "meta": {}
+  },
+  "Elia Martell": {
+    "parents": [
+      "Doran Martell"
+    ],
+    "children": [
+      "Aegon (young) Targaryen",
+      "Rhaenys Targaryen"
+    ],
+    "meta": {}
+  },
+  "Rhaenys Targaryen": {
+    "parents": [
+      "Rhaegar Targaryen",
+      "Elia Martell"
+    ],
+    "children": [],
+    "meta": {}
+  },
+  "Aegon (young) Targaryen": {
+    "parents": [
+      "Rhaegar Targaryen",
+      "Elia Martell"
+    ],
+    "children": [],
+    "meta": {}
+  },
+  "Viserys Targaryen": {
+    "parents": [
+      "Aerys II Targaryen",
+      "Rhaella Targaryen"
+    ],
+    "children": [],
+    "meta": {}
+  },
+  "Daenerys Targaryen": {
+    "parents": [
+      "Aerys II Targaryen",
+      "Rhaella Targaryen"
+    ],
+    "children": [],
+    "meta": {}
+  },
+  "Tytos Lannister": {
+    "parents": [],
+    "children": [
+      "Tywin Lannister"
+    ],
+    "meta": {}
+  },
+  "Joanna Lannister": {
+    "parents": [],
+    "children": [
+      "Tyrion Lannister",
+      "Jaime Lannister",
+      "Cersei Lannister"
+    ],
+    "meta": {}
+  },
+  "Tywin Lannister": {
+    "parents": [
+      "Tytos Lannister"
+    ],
+    "children": [
+      "Tyrion Lannister",
+      "Jaime Lannister",
+      "Cersei Lannister"
+    ],
+    "meta": {}
+  },
+  "Jaime Lannister": {
+    "parents": [
+      "Tywin Lannister",
+      "Joanna Lannister"
+    ],
+    "children": [],
+    "meta": {}
+  },
+  "Cersei Lannister": {
+    "parents": [
+      "Tywin Lannister",
+      "Joanna Lannister"
+    ],
+    "children": [],
+    "meta": {}
+  },
+  "Tyrion Lannister": {
+    "parents": [
+      "Tywin Lannister",
+      "Joanna Lannister"
+    ],
+    "children": [],
+    "meta": {}
+  },
+  "Orys Baratheon": {
+    "parents": [],
+    "children": [],
+    "meta": {}
+  },
+  "Steffon Baratheon": {
+    "parents": [],
+    "children": [
+      "Robert Baratheon",
+      "Stannis Baratheon",
+      "Renly Baratheon"
+    ],
+    "meta": {}
+  },
+  "Robert Baratheon": {
+    "parents": [
+      "Steffon Baratheon"
+    ],
+    "children": [],
+    "meta": {}
+  },
+  "Stannis Baratheon": {
+    "parents": [
+      "Steffon Baratheon"
+    ],
+    "children": [],
+    "meta": {}
+  },
+  "Renly Baratheon": {
+    "parents": [
+      "Steffon Baratheon"
+    ],
+    "children": [],
+    "meta": {}
+  },
+  "Hoster Tully": {
+    "parents": [],
+    "children": [
+      "Lysa Tully",
+      "Edmure Tully",
+      "Catelyn Tully"
+    ],
+    "meta": {}
+  },
+  "Minisa Whent": {
+    "parents": [],
+    "children": [
+      "Lysa Tully",
+      "Edmure Tully",
+      "Catelyn Tully"
+    ],
+    "meta": {}
+  },
+  "Lysa Tully": {
+    "parents": [
+      "Hoster Tully",
+      "Minisa Whent"
+    ],
+    "children": [
+      "Robert Arryn",
+      "Robin Arryn"
+    ],
+    "meta": {}
+  },
+  "Edmure Tully": {
+    "parents": [
+      "Hoster Tully",
+      "Minisa Whent"
+    ],
+    "children": [],
+    "meta": {}
+  },
+  "Robin Arryn": {
+    "parents": [
+      "Lysa Tully"
+    ],
+    "children": [],
+    "meta": {}
+  },
+  "Doran Martell": {
+    "parents": [],
+    "children": [
+      "Oberyn Martell",
+      "Elia Martell"
+    ],
+    "meta": {}
+  },
+  "Oberyn Martell": {
+    "parents": [
+      "Doran Martell"
+    ],
+    "children": [],
+    "meta": {}
+  },
+  "Mace Tyrell": {
+    "parents": [],
+    "children": [
+      "Margaery Tyrell",
+      "Loras Tyrell"
+    ],
+    "meta": {}
+  },
+  "Olenna Tyrell": {
+    "parents": [],
+    "children": [
+      "Margaery Tyrell",
+      "Loras Tyrell"
+    ],
+    "meta": {}
+  },
+  "Margaery Tyrell": {
+    "parents": [
+      "Mace Tyrell",
+      "Olenna Tyrell"
+    ],
+    "children": [],
+    "meta": {}
+  },
+  "Loras Tyrell": {
+    "parents": [
+      "Mace Tyrell",
+      "Olenna Tyrell"
+    ],
+    "children": [],
+    "meta": {}
+  },
+  "Balon Greyjoy": {
+    "parents": [],
+    "children": [
+      "Asha Greyjoy",
+      "Theon Greyjoy"
+    ],
+    "meta": {}
+  },
+  "Theon Greyjoy": {
+    "parents": [
+      "Balon Greyjoy"
+    ],
+    "children": [],
+    "meta": {}
+  },
+  "Asha Greyjoy": {
+    "parents": [
+      "Balon Greyjoy"
+    ],
+    "children": [],
+    "meta": {}
+  },
+  "Jon Arryn": {
+    "parents": [],
+    "children": [
+      "Robert Arryn"
+    ],
+    "meta": {}
+  },
+  "Robert Arryn": {
+    "parents": [
+      "Lysa Tully",
+      "Jon Arryn"
+    ],
+    "children": [],
+    "meta": {}
+  },
+  "Walder Frey": {
+    "parents": [],
+    "children": [
+      "Roslin Frey",
+      "Stevron Frey"
+    ],
+    "meta": {}
+  },
+  "Stevron Frey": {
+    "parents": [
+      "Walder Frey"
+    ],
+    "children": [],
+    "meta": {}
+  },
+  "Roslin Frey": {
+    "parents": [
+      "Walder Frey"
+    ],
+    "children": [],
+    "meta": {}
+  }
+}
